@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
+# In[2]:
 
 
 #Assignment 1 Part 1
@@ -24,8 +24,8 @@ def listDivide(numbers, divide = 2):
             
     
 def testListDivide(listDivide):
-    listDivide([1,2,3,4,5]
-    listDivide([2,4,6,8,10])          
+    listDivide([1,2,3,4,5])
+    listDivide([2,4,6,8,10])        
     listDivide([30,54,63,98,100], divide=10)
     listDivide([])
     listDivide([1,2,3,4,5], 1)
